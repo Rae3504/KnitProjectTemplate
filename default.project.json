@@ -22,13 +22,6 @@
             }
 		},
 
-		"ServerStorage": {
-			"$className": "ServerStorage",
-            "Source" : {
-                "$path": "src/ServerStorage"
-            }
-		},
-
 		"StarterPlayer": {
 			"$className": "StarterPlayer",
             "StarterPlayerScripts": {
